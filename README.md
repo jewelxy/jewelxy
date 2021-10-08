@@ -1,4 +1,4 @@
-### Hello, I am Jewel Rana
+### Hello, I am ---
 #### SOFTWARE ENGINEER
 
 Through my qualifications, skills and experience, I strive to develop and apply innovative ideas for the betterment of organization.
