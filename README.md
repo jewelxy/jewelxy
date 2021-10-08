@@ -1,7 +1,8 @@
 ### Hello, I am Jewel Rana
 #### SOFTWARE ENGINEER
 
-I am a full stack web developer having experience of multiple framework. I love problem solving. I am hard working, love to code person. I am a quick learner and love to learn new technlogy.
+Through my qualifications, skills and experience, I strive to develop and apply innovative ideas for the betterment of organization.
+Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Work under Pressure, well communication skill.
 <h3 align="left">KEY SKILLS</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
