@@ -2,7 +2,7 @@
 #### SOFTWARE ENGINEER
 
 I am a full stack web developer having experience of multiple framework. I love problem solving. I am hard working, love to code person. I am a quick learner and love to learn new technlogy.
-<h3 align="left">Skills:</h3>
+<h3 align="left">KEY SKILLS</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
