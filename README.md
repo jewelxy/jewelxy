@@ -22,7 +22,8 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 #### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [Dish For Food](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
 [Awsome Calculetor](https://github.com/jewelxy/A-simple-JS-calculetor) ||
-[Ultra Nation Basic React](https://github.com/jewelxy/explore-react/tree/main/ultra-nation) 
+[Ultra Nation Basic React](https://github.com/jewelxy/explore-react/tree/main/ultra-nation) ||
+[Fancy Slider](https://github.com/jewelxy/JavaScript-Fancy-Slider)
 
 #### PROJECT Related PHP, MySQL & Laravel
 [MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern) ||
