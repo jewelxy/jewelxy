@@ -18,7 +18,7 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 <img src="https://st3.depositphotos.com/27847728/33077/v/600/depositphotos_330775166-stock-illustration-initial-letter-logo-creative-typography.jpg" alt="Data Structure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-<h3 align="center">All Projects at a Glance</h3>
+<h3 align="center">ALL PROJECTS AT A GlANCE</h3>
 
 #### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [Dish For Food](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
