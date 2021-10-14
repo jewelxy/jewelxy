@@ -28,7 +28,8 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 #### PROJECT Related PHP, MySQL & Laravel
 [MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern) ||
 [Pouch System](https://github.com/jewelxy/Advance-Billing-System)||
-[Attendence Management System](https://github.com/jewelxy/UU-Attendence-Managemment-System)
+[Attendence Management System](https://github.com/jewelxy/UU-Attendence-Managemment-System)||
+[E-Commerce](http://www.rabiulfashionhouse.com/)
 
 
   
