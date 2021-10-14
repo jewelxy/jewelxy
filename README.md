@@ -19,11 +19,15 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-#### PROJECT ON JS
-[Dish For Food](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-)
+#### PROJECT Related MERNSTACK
+[Dish For Food](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
+[Awsome Calculetor](https://github.com/jewelxy/A-simple-JS-calculetor) ||
+[Ultra Nation Basic React](https://github.com/jewelxy/explore-react/tree/main/ultra-nation) 
 
-#### PROJECT ON PHP
-[MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern)
+#### PROJECT Related PHP, MySQL & Laravel
+[MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern) ||
+[Pouch System](https://github.com/jewelxy/Advance-Billing-System)||
+[Attendence Management System](https://github.com/jewelxy/UU-Attendence-Managemment-System)
 
 
   
