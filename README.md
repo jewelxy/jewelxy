@@ -19,7 +19,7 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-#### PROJECT Related MERNSTACK
+#### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [Dish For Food](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
 [Awsome Calculetor](https://github.com/jewelxy/A-simple-JS-calculetor) ||
 [Ultra Nation Basic React](https://github.com/jewelxy/explore-react/tree/main/ultra-nation) 
