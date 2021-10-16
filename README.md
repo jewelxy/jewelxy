@@ -30,7 +30,8 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 [MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern) ||
 [Pouch System](https://github.com/jewelxy/Advance-Billing-System)||
 [Attendence Management System](https://github.com/jewelxy/UU-Attendence-Managemment-System)||
-[E-Commerce](http://www.rabiulfashionhouse.com/)
+[E-Commerce](http://www.rabiulfashionhouse.com/) ||
+[Secure Registration System](https://github.com/jewelxy/bundle-of-php-project/tree/main/Secure%20user%20registration%20genarate%20otp)
 
 
   
