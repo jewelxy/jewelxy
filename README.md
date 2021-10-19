@@ -37,7 +37,7 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 [E-Commerce](http://www.rabiulfashionhouse.com/) ||
 [OTP based Registration System](https://github.com/jewelxy/bundle-of-php-project/tree/main/Secure%20user%20registration%20genarate%20otp)||
 [Send SMS Mobile API](https://jewelxy.github.io/Online-Seat-Booking-Wishlist-Cart/)||
-[Auto Genarate PHP captcha From Validetion](https://github.com/jewelxy/php-Captcha-For-From-Validation)
+[From Validation By Captcha Code](https://github.com/jewelxy/php-Captcha-For-From-Validation)
 
 
   
