@@ -30,7 +30,7 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 
 #### PROJECT Related PHP, MySQL & Laravel
 [MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern) ||
-[Pouch System](https://github.com/jewelxy/Advance-Billing-System)||
+[Inventory Management System](https://github.com/jewelxy/Advance-Billing-System)||
 [Student Information System](https://github.com/jewelxy/studentInformationSystem/tree/master/Student%20Info)||
 [Hospital mangement System](https://github.com/jewelxy/Hospital-Management-System)||
 [Attendence Management System](https://github.com/jewelxy/UU-Attendence-Managemment-System)||
