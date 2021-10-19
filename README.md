@@ -35,7 +35,7 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 [Hospital mangement System](https://github.com/jewelxy/Hospital-Management-System)||
 [Attendence Management System](https://github.com/jewelxy/UU-Attendence-Managemment-System)||
 [E-Commerce](http://www.rabiulfashionhouse.com/) ||
-[Secure Registration System](https://github.com/jewelxy/bundle-of-php-project/tree/main/Secure%20user%20registration%20genarate%20otp)||
+[OTP based Registration System](https://github.com/jewelxy/bundle-of-php-project/tree/main/Secure%20user%20registration%20genarate%20otp)||
 [Send SMS Mobile API](https://jewelxy.github.io/Online-Seat-Booking-Wishlist-Cart/)||
 [Auto Genarate PHP captcha From Validetion](https://github.com/jewelxy/php-Captcha-For-From-Validation)
 
