@@ -28,7 +28,7 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 [Online Seat Booking Wishlist-Cart](https://jewelxy.github.io/Online-Seat-Booking-Wishlist-Cart/)||
 
 
-#### PROJECT Related PHP, MySQL & Laravel
+#### PROJECT Related PHP, MySQL
 [MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern) ||
 [Inventory Management System](https://github.com/jewelxy/Advance-Billing-System)||
 [Student Information System](https://github.com/jewelxy/studentInformationSystem/tree/master/Student%20Info)||
@@ -38,6 +38,9 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 [OTP based Registration System](https://github.com/jewelxy/bundle-of-php-project/tree/main/Secure%20user%20registration%20genarate%20otp)||
 [Send SMS Mobile API](https://jewelxy.github.io/Online-Seat-Booking-Wishlist-Cart/)||
 [Form Validation By Captcha Code](https://github.com/jewelxy/php-Captcha-For-From-Validation)
+### Laravel
+[Blog](https://github.com/jewelxy/explore-laravel-8/tree/main/blogPost)||
+
 
 
   
