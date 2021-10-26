@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jewelxy&show_icons=true&theme=dracula">
 
-## 🐟 Jewel Rana - @Software Engineer
+## Jewel Rana - @Software Engineer
 
 I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
 
