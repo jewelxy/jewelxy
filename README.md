@@ -1,7 +1,9 @@
-#### SOFTWARE ENGINEER
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Adrinlol&show_icons=true&theme=dracula">
 
-Through my qualifications, skills and experience, I strive to develop and apply innovative ideas for the betterment of organization.
-Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Work under Pressure, well communication skill.
+## 🐟 Jewel Rana - @Software Engineer
+
+I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
+
 <h3 align="left">KEY SKILLS</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -18,7 +20,7 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 <img src="https://st3.depositphotos.com/27847728/33077/v/600/depositphotos_330775166-stock-illustration-initial-letter-logo-creative-typography.jpg" alt="Data Structure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-<h3 align="center">ALL PROJECTS AT A GlANCE</h3>
+## 🚀 Some of my projects
 
 #### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [FOOD SEARCHING](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
@@ -37,16 +39,13 @@ Leadership, Presentation, Self-driven, Public Relation, Team Work, Ability to Wo
 [E-Commerce](http://www.rabiulfashionhouse.com/) ||
 [OTP based Registration System](https://github.com/jewelxy/bundle-of-php-project/tree/main/Secure%20user%20registration%20genarate%20otp)||
 [Send SMS Mobile API](https://jewelxy.github.io/Online-Seat-Booking-Wishlist-Cart/)||
-[Form Validation By Captcha Code](https://github.com/jewelxy/php-Captcha-For-From-Validation) 
+[Form Validation By Captcha Code](https://github.com/jewelxy/php-Captcha-For-From-Validation)
 [Blog](https://github.com/jewelxy/explore-laravel-8/tree/main/blogPost)||
 
 
 
-  
 
+## 🖖 Get in touch
 
-
-
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewelranawebexpart/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:l.qqbadze@gmail.com)](mailto:jeweluu35@gmail.com)
