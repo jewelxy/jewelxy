@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Adrinlol&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jewelxy&show_icons=true&theme=dracula">
 
 ## 🐟 Jewel Rana - @Software Engineer
 
