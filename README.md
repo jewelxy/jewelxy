@@ -20,7 +20,6 @@ I am a full-stack software developer and competitive programmer having experienc
 <img src="https://st3.depositphotos.com/27847728/33077/v/600/depositphotos_330775166-stock-illustration-initial-letter-logo-creative-typography.jpg" alt="Data Structure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-## Some of my projects
 
 #### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [FOOD SEARCHING](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
