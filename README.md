@@ -19,6 +19,7 @@ I am a full-stack software developer and competitive programmer having experienc
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="cplusplus" width="40" height="40"/>
 <img src="https://st3.depositphotos.com/27847728/33077/v/600/depositphotos_330775166-stock-illustration-initial-letter-logo-creative-typography.jpg" alt="Data Structure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="git" width="40" height="40"/>
 </p>
 
 #### PROJECT Related JavScript, REACT, Node.js & MongoDB
