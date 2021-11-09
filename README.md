@@ -43,6 +43,8 @@ I am a full-stack software developer and competitive programmer having experienc
 [Blog](https://github.com/jewelxy/explore-laravel-8/tree/main/blogPost)||
 
 
+#### [Developing Tools](https://jewelxy.github.io/free-developer-resource/)
+[Git Command](https://github.com/jewelxy/git-command) || [Front End](https://github.com/jewelxy/resources-collection)
 
 
 ## 🖖 Get in touch
