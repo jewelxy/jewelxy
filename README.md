@@ -25,6 +25,7 @@ I am a full-stack software developer and competitive programmer having experienc
 #### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [FOOD SEARCHING](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
 [Awsome Calculetor](https://github.com/jewelxy/A-simple-JS-calculetor) ||
+[Analog Clock](https://jewelxy.github.io/analog-clock-on-JS-/)||
 [Ultra Nation Basic React](https://github.com/jewelxy/explore-react/tree/main/ultra-nation) ||
 [Fancy Slider](https://github.com/jewelxy/JavaScript-Fancy-Slider)||
 [Online Seat Booking Wishlist-Cart](https://jewelxy.github.io/Online-Seat-Booking-Wishlist-Cart/)||
