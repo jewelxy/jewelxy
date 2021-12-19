@@ -1,11 +1,11 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jewelxy&show_icons=true&theme=dracula">
 
-## Jewel Rana - @Software Engineer
+## Jewel Rana - @Software Engineer || VA
 
 I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
 
-# Languages, Frameworks and Tools I use and I have worked with:
-## Languages and Tools:
+## Languages, Frameworks and Tools I use and I have worked with:
+### Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -22,7 +22,7 @@ I am a full-stack software developer and competitive programmer having experienc
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="git" width="40" height="40"/>
 </p>
-
+## My Sucess Project History
 #### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [FOOD SEARCHING](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
 [Awsome Calculetor](https://github.com/jewelxy/A-simple-JS-calculetor) ||
@@ -52,7 +52,7 @@ I am a full-stack software developer and competitive programmer having experienc
 [Git Command](https://github.com/jewelxy/git-command) || [Front End](https://github.com/jewelxy/resources-collection)
 
 
-## 🖖 Get in touch
+## 🖖 Connect With Me
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewelranawebexpart/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:l.qqbadze@gmail.com)](mailto:jeweluu35@gmail.com)
