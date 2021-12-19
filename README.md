@@ -22,8 +22,10 @@ I am a full-stack software developer and competitive programmer having experienc
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="git" width="40" height="40"/>
 </p>
-## My Sucess Project History
-#### PROJECT Related JavScript, REACT, Node.js & MongoDB
+
+## My Success Project History
+
+### PROJECT Related JavScript, REACT, Node.js & MongoDB
 [FOOD SEARCHING](https://github.com/jewelxy/Dish-For-Food-Simple-JS-API-) ||
 [Awsome Calculetor](https://github.com/jewelxy/A-simple-JS-calculetor) ||
 [Analog Clock](https://jewelxy.github.io/analog-clock-on-JS-/)||
@@ -34,7 +36,7 @@ I am a full-stack software developer and competitive programmer having experienc
 [IP TRACKER](https://jewelxy.github.io/IP-Tracker/)
 
 
-#### PROJECT Related PHP,Laravel & MySQL
+### PROJECT Related PHP,Laravel & MySQL
 [MVC MODEL EXPLORE SHAREBOARD](https://github.com/jewelxy/explore-PHP-OOP/tree/main/crushCoursePHP/userAPI%20MVC%20Pattern) ||
 [Inventory Management System](https://github.com/jewelxy/Advance-Billing-System)||
 [Student Information System](https://github.com/jewelxy/studentInformationSystem/tree/master/Student%20Info)||
@@ -48,7 +50,7 @@ I am a full-stack software developer and competitive programmer having experienc
 [Blog](https://github.com/jewelxy/explore-laravel-8/tree/main/blogPost)||
 
 
-#### [Developing Tools](https://jewelxy.github.io/free-developer-resource/)
+#### [Developing Tools and resorces](https://jewelxy.github.io/free-developer-resource/)
 [Git Command](https://github.com/jewelxy/git-command) || [Front End](https://github.com/jewelxy/resources-collection)
 
 
