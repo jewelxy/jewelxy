@@ -4,7 +4,8 @@
 
 I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
 
-<h3 align="left">KEY SKILLS</h3>
+# Languages, Frameworks and Tools I use and I have worked with:
+## Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
