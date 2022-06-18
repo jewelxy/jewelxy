@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jewelxy&show_icons=true&theme=dracula">
+<!---<img align='right' src="https://github-readme-stats.vercel.app/api?username=jewelxy&show_icons=true&theme=dracula">----->
 
 ## Jewel Rana - @Software Engineer
 
@@ -55,7 +55,13 @@ I am a full-stack software developer and competitive programmer having experienc
 [Laravel Command](https://github.com/jewelxy/laravel-documentation)
 
 
-## 🖖 Connect With Me
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewelranawebexpart/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:l.qqbadze@gmail.com)](mailto:jeweluu35@gmail.com)
+## ☕ Connect With me!
+<p>
+ <a href="(https://www.linkedin.com/in/jewelranawebexpart/)" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+  </a>
+   <a href="intmainjewel@gmail.com" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+  </p>
