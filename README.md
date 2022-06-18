@@ -60,7 +60,6 @@ I am a full-stack software developer and competitive programmer having experienc
  <a href="(https://www.linkedin.com/in/jewelranawebexpart/)" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-  </a>
    <a href="intmainjewel@gmail.com" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
