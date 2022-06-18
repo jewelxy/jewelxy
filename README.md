@@ -4,23 +4,38 @@
 
 I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
 
-## Languages, Frameworks and Tools I use and I have worked with:
-### Languages and Tools:
+<h3>⚡ Technology I code with</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.pngitem.com/pimgs/m/91-913031_axios-axios-logo-hd-png-download.png" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/38988349/136521531-2ce6616f-f983-4711-ae7a-69ad570829e7.png" alt="c" width="40" height="40"/>
-<img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="cplusplus" width="40" height="40"/>
-<img src="https://st3.depositphotos.com/27847728/33077/v/600/depositphotos_330775166-stock-illustration-initial-letter-logo-creative-typography.jpg" alt="Data Structure" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="git" width="40" height="40"/>
+  <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=Jquery&logo=jquery&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=Ajax&logo=json&labelColor=5c5c5c&color=0e6251&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=e67e22&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
 </p>
 
 ## My Success Project History
