@@ -3,7 +3,13 @@
 ## Jewel Rana - @Software Engineer
 
 I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
-
+<p>
+<span>♥️ I enjoy learning and sharing knowledge.</span> <br>
+ <span>💻 Most used line of code console.log("hello world").</span> <br>
+ <span>🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.</span> <br>
+ <span>📧 How to reach me: intmainjewel@gmail.com.</span> <br>
+ <span>🔭  I’m currently working on PHP Laravel.</span> <br>
+</p>  
 <h3>⚡ Technology I code with</h3>
 <p align="left">
   <a href="#">
