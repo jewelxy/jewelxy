@@ -20,8 +20,8 @@ I am a full-stack software developer and competitive programmer having experienc
    <a href="#">
     <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
- <a href="#">
-    <img src ="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" height="25" style="max-width: 100%;">
+<a href="#">
+    <img src ="https://img.shields.io/static/v1?message=React Js&logo=vuedotjs&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
   <a href="#">
     <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="25" style="max-width: 100%;">
