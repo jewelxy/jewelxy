@@ -6,7 +6,7 @@ I am a full-stack software developer and competitive programmer having experienc
 <p>
 <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
  <span>💻 Most used line of code console.log("hello world").</span> <br>
- <span>🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.</span> <br>
+ <span>🤔 I’m looking for people who can help me with Outstanding content ideas and executions.</span> <br>
  <span>🔭  I’m currently working on PHP Laravel.</span> <br>
 </p>  
 <h3>⚡ Technology I code with</h3>
