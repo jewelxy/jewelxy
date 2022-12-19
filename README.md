@@ -47,7 +47,7 @@ I am a full-stack software developer and competitive programmer having experienc
     <img src ="https://img.shields.io/static/v1?message=C%2B%2B&logo=C%2B%2B&labelColor=5c5c5c&color=32CD32&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
  <a href="#">
-    <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=JAVA&logo=Ko--fi&labelColor=e67e22&color=E52B50&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
   </a>
 </p>
