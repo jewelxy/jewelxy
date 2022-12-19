@@ -44,7 +44,7 @@ I am a full-stack software developer and competitive programmer having experienc
    <a href="#">
     <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
      <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=C plus plus&logo=C%2B%2B&labelColor=BFFF00&color=32CD32&logoColor=BFFF00&label=%20" height="25" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=C + + &logo=C%2B%2B&labelColor=5c5c5c&color=32CD32&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
   </a>
 </p>
