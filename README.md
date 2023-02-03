@@ -5,7 +5,7 @@
 I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
 <p>
 <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
- <span>💻 Most used line of code console.log("hello world").</span> <br>
+ <span>💻 Spent the most time ⇛ Raw Programming.</span> <br>
  <span>🤔 I’m looking for people who can help me with Outstanding content ideas and executions.</span> <br>
  <span>🔭  I’m currently working on JAVA</span> <br>
 </p>  
