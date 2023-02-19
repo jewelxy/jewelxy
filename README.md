@@ -86,7 +86,7 @@ I am a full-stack software developer and competitive programmer having experienc
 
 ## ☕ Connect With me!
 <p>
- <a href="https://www.linkedin.com/in/jewelranawebexpart/" target="_blank">
+ <a href="https://www.linkedin.com/in/jewelranadev/" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="intmainjewel@gmail.com" target="_blank">
