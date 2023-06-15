@@ -26,9 +26,6 @@ I am a full-stack software developer and competitive programmer having experienc
   <a href="#">
     <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-  <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Jquery&logo=mongodb&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
-  </a>
    <a href="#">
     <img src ="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
