@@ -33,7 +33,7 @@ I am a full-stack software developer and competitive programmer having experienc
     <img src ="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=e67e22&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=TailwindCss&logo=tailwindcss&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=TailwindCss&logo=tailwindcss&labelColor=1de0d0&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
       <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
      <a href="#">
     <img src ="https://img.shields.io/static/v1?message=C%2B%2B&logo=C%2B%2B&labelColor=5c5c5c&color=32CD32&logoColor=white&label=%20" height="25" style="max-width: 100%;">
