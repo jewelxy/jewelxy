@@ -54,7 +54,7 @@ I am a full-stack software developer and competitive programmer having experienc
 [Fancy Slider](https://github.com/jewelxy/JavaScript-Fancy-Slider)||
 [Online Seat Booking Wishlist-Cart](https://jewelxy.github.io/Online-Seat-Booking-Wishlist-Cart/)||
 [Sports Junction](https://github.com/jewelxy/team-selection)||
-[IP TRACKER](https://jewelxy.github.io/IP-Tracker/)
+[IP TRACKER](https://jewelxy.github.io/IP-Tracker/) ||
 [Prescriptoo](http://web.prescriptoo.com/)
 
 
