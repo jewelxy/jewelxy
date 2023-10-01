@@ -75,7 +75,7 @@ I am a full-stack software developer and competitive programmer having experienc
 #### [Developing Tools and resorces](https://jewelxy.github.io/free-developer-resource/)
 [Git Command](https://github.com/jewelxy/git-command) || [Front End](https://github.com/jewelxy/resources-collection) || 
 [Laravel Command](https://github.com/jewelxy/laravel-documentation) ||
-[Laravel Command](https://github.com/jewelxy/DSA-exploring-and-cracking)
+[DSA Exploring](https://github.com/jewelxy/DSA-exploring-and-cracking)
 
 
 ## ☕ Connect With me!
