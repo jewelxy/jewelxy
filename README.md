@@ -17,15 +17,33 @@ I am a full-stack software developer and competitive programmer having experienc
    <a href="#">
     <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
+ <a href="#">
+    <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&labelColor=5c5c5c&color=339933&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+</a>
+
 <a href="#">
     <img src ="https://img.shields.io/static/v1?message=React Js&logo=React&labelColor=5c5c5c&color=61DAFB&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
 <a href="#">
     <img src="https://img.shields.io/static/v1?message=Next.js&logo=next.js&labelColor=5c5c5c&color=000000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
 </a>
+ <a href="#">
+    <img src="https://img.shields.io/static/v1?message=React Native&logo=react&labelColor=5c5c5c&color=61DAFB&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/static/v1?message=Redux&logo=redux&labelColor=5c5c5c&color=764ABC&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+</a>
+
   <a href="#">
     <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&labelColor=5c5c5c&color=336791&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonaws&labelColor=5c5c5c&color=FF9900&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+</a>
+
   <a href="#">
     <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
