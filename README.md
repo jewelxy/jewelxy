@@ -6,8 +6,8 @@ I am a full-stack software developer and competitive programmer having experienc
 <p>
 <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
  <span>💻 Spent the most time ⇛ Raw Programming.</span> <br>
- <span>🤔 I’m looking for people who can help me with Outstanding content ideas and executions.</span> <br>
- <span>🔭  I’m currently working on React Redux</span> <br>
+ <span>🤔 I’m looking for people who can help me with exceptional system ideas and their execution.</span> <br>
+ <span>🔭  I am currently working on an ongoing project: SCM (Supply Chain Management System)</span> <br>
 </p>  
 <h3>⚡ Technology I code with</h3>
 <p align="left">
