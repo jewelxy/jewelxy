@@ -2,7 +2,7 @@
 
 ## Jewel Rana - @Software Engineer
 
-I am a full-stack software developer and competitive programmer having experience with multiple frameworks. I try to practice and learn at least one new line of code every day. And this trend I have continued from the beginning of my programming learning. I love to code and analyze it.
+Passionate and self-driven Full Stack Software Engineer with strong experience in building scalable web and mobile applications using Laravel, React, and Next.js. Adept in team collaboration, system design, and performance optimization. Committed to continuous learning and delivering high-quality solutions with tangible business impact.
 <p>
 <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
  <span>💻 Spent the most time ⇛ Raw Programming.</span> <br>
